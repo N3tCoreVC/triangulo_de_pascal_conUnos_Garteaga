@@ -2,11 +2,10 @@
 Tarea del curso .netCore
 lalalalalalala
 
-;a;a;a;a;a;a;a;a
-@WR$#UYHRThdzrth
-ghdrgy
-drg
-dfg
+
+
+
+
 dfg
 dzfg
 df
